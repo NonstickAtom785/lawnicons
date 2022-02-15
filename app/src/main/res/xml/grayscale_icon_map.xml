@@ -23,6 +23,8 @@
     <icon drawable="@drawable/boost_for_reddit" package="com.rubenmayayo.reddit" name="Boost for Reddit" />
     <icon drawable="@drawable/bose_music" package="com.bose.bosemusic" name="Bose Music" />
     <icon drawable="@drawable/brave_browser" package="com.brave.browser" name="Brave Browser" />
+    <icon drawable="@drawable/brave_browser" package="com.brave.browser_beta" name="Brave Browser Beta" />
+    <icon drawable="@drawable/brave_browser" package="com.brave.browser_nightly" name="Brave Browser Nightly" />
     <icon drawable="@drawable/bromite" package="org.bromite.bromite" name="Bromite" />
     <icon drawable="@drawable/browser" package="org.droidtr.jelly" name="Browser" />
     <icon drawable="@drawable/browser" package="org.lineageos.jelly" name="Browser" />
@@ -58,6 +60,7 @@
     <icon drawable="@drawable/camera" package="org.codeaurora.qcamera3" name="Camera" />
     <icon drawable="@drawable/camera" package="org.codeaurora.snapcam" name="Camera" />
     <icon drawable="@drawable/camera" package="org.lineageos.snap" name="Camera" />
+    <icon drawable="@drawable/cashapp" package="org.squareup.cash" name="Cash App" />
     <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
     <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
